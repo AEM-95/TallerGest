@@ -28,8 +28,8 @@ Su objetivo es facilitar la gestión de las operaciones habituales de un pequeñ
 
 ## Integrantes
 
-- [Nombre y apellidos del integrante 1]
-- [Nombre y apellidos del integrante 2]
+- Ahmed El Mazouzi Mazouzi 54845777T.
+- Rafael Francisco Rivera Molina 48643490P.
 
 ## Estado del proyecto
 
